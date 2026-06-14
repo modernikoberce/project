@@ -1,5 +1,5 @@
 import { Switch, Route } from "wouter";
-import Home from "./pages/home";
+import Home from "./pages/Home";
 
 function NotFound() {
   return (
